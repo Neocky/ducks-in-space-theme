@@ -1,0 +1,21 @@
+{
+  "name": "ducks-in-space",
+  "displayName": "Ducks in Space",
+  "description": "Ducks in Space Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ducks in Space Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ducks-in-space-dark-color-theme.json"
+      }
+    ]
+  }
+}
