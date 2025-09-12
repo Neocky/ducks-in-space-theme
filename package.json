@@ -17,5 +17,6 @@
         "path": "./themes/ducks-in-space-dark-color-theme.json"
       }
     ]
-  }
+  },
+  "icon": "images/icon.png"
 }
