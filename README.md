@@ -8,6 +8,13 @@ Balanced colors, no neon overload. Made for cozy coding sessions that don’t bu
 <img width="993" height="418" alt="image" src="https://github.com/user-attachments/assets/fc80438a-779f-43bf-bbd2-e798afcd7e28" />
 
 
+## Install
+
+- Open VSCode
+- Open the extensions tab `CMD + SHIFT + X`
+- Search for "Duck in Space" and hit install
+
+
 ## Base Colors
 
 | 🎨 | Palette | Hex | SYN ID |
