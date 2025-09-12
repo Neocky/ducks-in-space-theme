@@ -1,8 +1,9 @@
 {
   "name": "ducks-in-space",
+  "publisher": "Neocky",
   "displayName": "Ducks in Space",
   "description": "Ducks in Space Theme",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.103.0"
   },
@@ -18,5 +19,14 @@
       }
     ]
   },
-  "icon": "images/icon.png"
+  "icon": "images/icon.png",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Neocky/ducks-in-space-theme/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Neocky/ducks-in-space-theme"
+  },
+  "homepage": "https://github.com/Neocky/ducks-in-space-theme/blob/main/README.md"
 }
