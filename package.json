@@ -3,7 +3,7 @@
   "publisher": "Neocky",
   "displayName": "Ducks in Space",
   "description": "Come to the quack side of the cosmos.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.103.0"
   },
