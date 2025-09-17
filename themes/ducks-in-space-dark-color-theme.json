@@ -49,6 +49,8 @@
         "list.activeSelectionBackground": "#363B46",
         "list.activeSelectionForeground": "#CDD6F4",
         "list.focusAndSelectionOutline": "#363B46",
+        "focusBorder": "#8f95aa",
+        "list.focusOutline": "#8f95aa",
         "editorHoverWidget.background": "#20232a",
         "editorHoverWidget.foreground": "#CDD6F4",
         "editorHoverWidget.border": "#131519",
@@ -63,19 +65,42 @@
         "editorGutter.addedSecondaryBackground": "#6fa96f",
         "editorGutter.modifiedBackground": "#FF9E4D",
         "editorGutter.deletedBackground": "#E57373",
-        "diffEditor.insertedTextBackground": "#7fb27f53",
-        "diffEditor.removedTextBackground": "#E5737333",
+        "diffEditor.insertedTextBackground": "#8FBC8F53",
+        "diffEditor.removedTextBackground": "#E5737353",
+        "diffEditor.insertedLineBackground": "#5f9f5f52",
+        "diffEditor.removedLineBackground": "#d9323252",
         "diffEditor.diagonalFill": "#8f95aa33",
+        "diffEditor.border": "#363B46",
         "textLink.foreground": "#5A8DEE",
         "textLink.activeForeground": "#8CB4FF",
-        "gitDecoration.addedResourceForeground": "#6fa96f",
+        "editorOverviewRuler.addedForeground": "#8FBC8Fcc",
+        "editorOverviewRuler.deletedForeground": "#E57373cc",
+        "editorOverviewRuler.modifiedForeground": "#FF9E4Dcc",
+        "gitDecoration.addedResourceForeground": "#8FBC8F",
         "gitDecoration.modifiedResourceForeground": "#FF9E4D",
         "gitDecoration.deletedResourceForeground": "#E57373",
-        "gitDecoration.untrackedResourceForeground": "#E099FF",
+        "gitDecoration.untrackedResourceForeground": "#6CAEFF",
         "gitDecoration.ignoredResourceForeground": "#8f95aa",
-        "gitDecoration.conflictingResourceForeground": "#56B6C2",
+        "gitDecoration.conflictingResourceForeground": "#E099FF",
         "gitDecoration.submoduleResourceForeground": "#CDD6F4",
         "gitDecoration.stageModifiedResourceForeground": "#6fa96f",
+        "input.background": "#2B2F38",
+        "input.foreground": "#CDD6F4",
+        "input.border": "#363B46",
+        "list.activeSelectionIconForeground": "#A6ADC8",
+        "input.placeholderForeground": "#A6ADC8",
+        "editor.findMatchBackground": "#FF9E4D66",
+        "editor.findMatchHighlightBackground": "#FF9E4D33",
+        "editor.findRangeHighlightBackground": "#6CAEFF22",
+        "editor.hoverHighlightBackground": "#6CAEFF22",
+        "quickInput.background": "#2B2F38",
+        "quickInput.foreground": "#CDD6F4",
+        "quickInputList.focusBackground": "#454B5A",
+        "quickInputList.focusForeground": "#CDD6F4",
+        "quickInputList.focusIconForeground": "#CDD6F4",
+        "button.background": "#FF9E4D",
+        "button.foreground": "#2B2F38",
+        "button.hoverBackground": "#E68A3D",
         "editorLineNumber.foreground": "#A6ADC853"
     },
     "tokenColors": [
@@ -106,7 +131,7 @@
                 "variable.other.property"
             ],
             "settings": {
-                "foreground": "#FF9E4D"
+                "foreground": "#CDD6F4"
             }
         },
         {
@@ -258,7 +283,7 @@
                 "keyword.other"
             ],
             "settings": {
-                "foreground": "#E099FF"
+                "foreground": "#89A6FF"
             }
         },
         {
@@ -267,7 +292,7 @@
                 "constant.character"
             ],
             "settings": {
-                "foreground": "#E099FF"
+                "foreground": "#89A6FF"
             }
         },
         {
@@ -276,7 +301,7 @@
                 "constant.numeric"
             ],
             "settings": {
-                "foreground": "#E099FF"
+                "foreground": "#89A6FF"
             }
         },
         {
@@ -686,6 +711,13 @@
             ],
             "settings": {
                 "foreground": "#65737E"
+            }
+        },
+        {
+            "name": "Markdown - Inline Code",
+            "scope": [ "markup.inline.raw.string.markdown" ],
+            "settings": {
+                "foreground": "#C3B9FF"
             }
         },
         {

@@ -10,10 +10,10 @@ Balanced colors, no neon overload. Made for cozy coding sessions that don’t bu
 
 ## Install
 
-- Open VSCode
-- Open the extensions tab `CMD + SHIFT + X`
-- Search for "Duck in Space" and hit install
-
+1. Go to [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=Neocky.ducks-in-space).
+2. Click on the "Install" button.
+3. Then [select the theme](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme).
+    - `Ducks in Space Dark`
 
 ## Base Colors
 
@@ -24,7 +24,8 @@ Balanced colors, no neon overload. Made for cozy coding sessions that don’t bu
 | ![#8FBC8F](https://placehold.co/50x50/8FBC8F/8FBC8F.png) | **Green** | `#8FBC8F` | Regex / Escape |
 | ![#E6C384](https://placehold.co/50x50/E6C384/E6C384.png) | **Yellow** | `#E6C384` | Markdown Anchors |
 | ![#C3B9FF](https://placehold.co/50x50/C3B9FF/C3B9FF.png) | **Lavender** | `#C3B9FF` | Strings |
-| ![#E099FF](https://placehold.co/50x50/E099FF/E099FF.png) | **Magenta** | `#E099FF` | Constants / Types |
+| ![#E099FF](https://placehold.co/50x50/E099FF/E099FF.png) | **Magenta** | `#E099FF` | Types |
+| ![#89A6FF](https://placehold.co/50x50/89A6FF/89A6FF.png) | **Starlight Blue** | `#89A6FF` | Constants |
 | ![#6CAEFF](https://placehold.co/50x50/6CAEFF/6CAEFF.png) | **Blue** | `#6CAEFF` | Special Methods |
 
 
@@ -44,3 +45,9 @@ Balanced colors, no neon overload. Made for cozy coding sessions that don’t bu
 - Comfortable contrast ratios
 - Playful duck vibes 🦆  
 - Markdown, JSON, YAML friendly
+
+
+## Contribute
+
+Found an issue or have an idea for improvement?  
+Feel free to [open an issue](https://github.com/Neocky/ducks-in-space-theme/issues) or submit a PR.

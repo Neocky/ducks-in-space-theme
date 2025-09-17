@@ -2,8 +2,8 @@
   "name": "ducks-in-space",
   "publisher": "Neocky",
   "displayName": "Ducks in Space",
-  "description": "Come to the quack side of the cosmos.",
-  "version": "1.0.1",
+  "description": "A soft, space-inspired theme with playful duck energy. ",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.103.0"
   },
