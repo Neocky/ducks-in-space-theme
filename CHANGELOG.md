@@ -4,6 +4,13 @@ All notable changes to the "ducks-in-space" extension will be documented in this
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 
+## [1.0.4] - 2025-09-18
+
+### Added
+
+- New picture for showcase
+
+
 ## [1.0.3] - 2025-09-18
 
 ### Added
