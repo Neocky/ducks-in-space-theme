@@ -3,7 +3,7 @@
   "publisher": "Neocky",
   "displayName": "Ducks in Space",
   "description": "A soft, space-inspired theme with playful duck energy. ",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "engines": {
     "vscode": "^1.103.0"
   },
