@@ -5,8 +5,7 @@
 A soft, space-inspired theme with playful duck energy for Visual Studio Code.  
 Balanced colors, no neon overload. Made for cozy coding sessions that don’t burn your eyes.  
 
-<img width="993" height="418" alt="image" src="https://github.com/user-attachments/assets/fc80438a-779f-43bf-bbd2-e798afcd7e28" />
-
+<img width="1298" height="508" alt="image" src="https://github.com/user-attachments/assets/be9bec90-f538-4064-82b9-6dc8d904893d" />
 
 ## Install
 
